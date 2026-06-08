@@ -172,6 +172,7 @@ Starting in 2021, as LLMs evolved rapidly and the technology matured, we began t
 - [LangSmith](https://langsmith.io/) - A monitoring and debugging platform by the LangChain team that provides systematic performance tracking, error analysis, and logging for LLM-based applications.
 - [OpenLLM (by BentoML)](https://docs.bentoml.org/en/latest/openllm/) - A deployment tool from BentoML that simplifies serving various large language models in production environments.
 - [PromptLayer](https://promptlayer.com/) - A tool for tracking and analyzing prompt engineering experiments, helping optimize prompt performance and outcomes.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for AI agents on Solana. `score_agent` and `preflight_check` (free) return agent wallet reputation before autonomous task execution; `get_trust_receipt` (paid via x402 micropayment) issues a cryptographic audit trail. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 [:arrow_up: Go to top](#top)
 
